@@ -1,0 +1,11 @@
+Add multi-level support and create a main menu. Add more keybinds to pudge in the existing level/create something to play with.
+
+Draw out test characters and assets. Compose/complete more music that fits better into the story.
+
+Finish storyboarding rest of game/develop mechanics on test characters.
+
+There's something wrong with the x64 linking in release that requires the .dll files from studio. x86 is working so not priority.
+
+Optimization, optimization, optimization. Check types for precision-- some floating point values may not be needed at that precision level.
+
+Better documentation.
