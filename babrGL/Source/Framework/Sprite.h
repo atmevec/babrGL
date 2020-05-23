@@ -108,7 +108,7 @@ class Sprite
 			bounded = true;
 			this->xMax = (xMax * 2) - (sizeX * 2);
 			this->xMin = xMin;
-			this->yMax = (yMax * 2) - (sizeY * 1.5);
+			this->yMax = (yMax * 2) - (sizeY * 1.5f);
 			this->yMin = yMin;
 		}
 
